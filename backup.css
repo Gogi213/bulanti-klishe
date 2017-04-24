@@ -1,0 +1,26 @@
+.main{
+    margin-left: 225px;
+    margin-top: 195px;;}
+
+    .main h2{
+    font-size:35px;
+    text-shadow: -1px -1px 2px rgb(20, 0, 0);
+    color: #3f383a;}
+.main p{
+    margin: 39px 0 0 302px;
+display: inline-block;}
+    .main button{
+    height: 62px;
+    width: 328px;
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #3f383a;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #ffffff;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #494244;
+    border: none;}
+.main button:hover{background-color: #6d6064;}

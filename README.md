@@ -1,2 +1,0 @@
-# bulanti-klishe
-bulanti-klishe
